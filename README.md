@@ -14,7 +14,7 @@ The study utilizes a dataset of gas prices collected obtained from Kaggle at <ht
 
 ## Analysis and Visualizations
 
-As I said earlier, I made a simple Power Bi Dashboard for ease of navigation and filtering of information as seen below:
+As I said earlier, I made a simple Power Bi Dashboard for ease of viewing, navigating and filtering of information as seen below:
 
 ![image](https://github.com/Arthur-Vic/Gas-Prices-Data-Analysis/assets/137464112/d673b919-f6e2-4cf9-82bc-bf0a6d9dfef3)
 
