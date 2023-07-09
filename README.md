@@ -6,6 +6,7 @@ This repository contains an educational study on gas prices in Brazil from the y
 
 With this study I am aiming to work on my Data Analysis skills and learn along the way.
 For this project I've used Pandas along Jupyter Notebook in order to work with and see the changes made on to the csv file.
+Also, for presenting the data, I made a simple Power Bi Dashboard for ease of navigation and filtering of information.
 
 ## Dataset
 
@@ -13,7 +14,10 @@ The study utilizes a dataset of gas prices collected obtained from Kaggle at <ht
 
 ## Analysis and Visualizations
 
-As of today I cleaned up the data for ease of use and visualization, to be processed in the future.
+As I said earlier, I made a simple Power Bi Dashboard for ease of navigation and filtering of information as seen below:
+
+![image](https://github.com/Arthur-Vic/Gas-Prices-Data-Analysis/assets/137464112/d673b919-f6e2-4cf9-82bc-bf0a6d9dfef3)
+
 
 ### Contributions
 If you have any suggestions, improvements, or additional analyses to propose, please feel free to open an issue or submit a pull request. I'd love to have your input in my learning jorney through data analysis!
